@@ -1,0 +1,47 @@
+{
+  "deps": {
+    "$CWD$/node_modules/.pnpm/@umijs+renderer-react@3.5.20_39566ec7cc5fe716a59f91f7330320ef/node_modules/@umijs/renderer-react": "3.5.20",
+    "$CWD$/node_modules/.pnpm/@umijs+runtime@3.5.20_react@16.14.0/node_modules/@umijs/runtime": "3.5.20",
+    "regenerator-runtime/runtime": "0.13.5",
+    "core-js": "3.6.5",
+    "react": "17.0.2",
+    "react/jsx-dev-runtime": "17.0.2",
+    "$CWD$/node_modules/.pnpm/@babel+runtime@7.12.5/node_modules/@babel/runtime/helpers/esm/slicedToArray": "7.12.5",
+    "antd-mobile": "5.0.0-rc.0",
+    "$CWD$/node_modules/.pnpm/fast-deep-equal@3.1.1/node_modules/fast-deep-equal/index.js": "3.1.1",
+    "$CWD$/node_modules/.pnpm/react-helmet@6.1.0_react@17.0.2/node_modules/react-helmet": "6.1.0",
+    "$CWD$/node_modules/.pnpm/@ahooksjs+use-request@2.8.13_react@17.0.2/node_modules/@ahooksjs/use-request": "2.8.13",
+    "@umijs/plugin-request/lib/ui": "2.8.0",
+    "$CWD$/node_modules/.pnpm/umi-request@1.4.0/node_modules/umi-request": "1.4.0",
+    "$CWD$/node_modules/.pnpm/@babel+runtime@7.12.5/node_modules/@babel/runtime/helpers/esm/objectSpread2": "7.12.5",
+    "$CWD$/node_modules/.pnpm/@babel+runtime@7.12.5/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties": "7.12.5",
+    "$CWD$/node_modules/.pnpm/@babel+runtime@7.12.5/node_modules/@babel/runtime/helpers/esm/asyncToGenerator": "7.12.5",
+    "$CWD$/node_modules/.pnpm/@babel+runtime@7.12.5/node_modules/@babel/runtime/regenerator": "7.12.5"
+  },
+  "config": {
+    "theme": {},
+    "externals": {},
+    "runtimePublicPath": false,
+    "umiVersion": "3.5.20",
+    "bigfishVersion": "null"
+  },
+  "tmpDeps": {
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/@umijs+renderer-react@3.5.20_39566ec7cc5fe716a59f91f7330320ef/node_modules/@umijs/renderer-react": "3.5.20",
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/@umijs+runtime@3.5.20_react@16.14.0/node_modules/@umijs/runtime": "3.5.20",
+    "regenerator-runtime/runtime": "0.13.5",
+    "core-js": "3.6.5",
+    "react": "17.0.2",
+    "react/jsx-dev-runtime": "17.0.2",
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/@babel+runtime@7.12.5/node_modules/@babel/runtime/helpers/esm/slicedToArray": "7.12.5",
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/fast-deep-equal@3.1.1/node_modules/fast-deep-equal/index.js": "3.1.1",
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/@ahooksjs+use-request@2.8.13_react@17.0.2/node_modules/@ahooksjs/use-request": "2.8.13",
+    "@umijs/plugin-request/lib/ui": "2.8.0",
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/umi-request@1.4.0/node_modules/umi-request": "1.4.0",
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/@babel+runtime@7.12.5/node_modules/@babel/runtime/helpers/esm/objectSpread2": "7.12.5",
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/@babel+runtime@7.12.5/node_modules/@babel/runtime/helpers/esm/objectWithoutProperties": "7.12.5",
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/@babel+runtime@7.12.5/node_modules/@babel/runtime/helpers/esm/asyncToGenerator": "7.12.5",
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/@babel+runtime@7.12.5/node_modules/@babel/runtime/regenerator": "7.12.5",
+    "/Users/edz/project/mine/bug-report/node_modules/.pnpm/react-helmet@6.1.0_react@17.0.2/node_modules/react-helmet": "6.1.0",
+    "antd-mobile": "5.0.0-rc.0"
+  }
+}
